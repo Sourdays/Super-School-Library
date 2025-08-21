@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ccb0a4ron5v8e"
-path="res://.godot/imported/SuperSchoolLibrary.png-87b1486eb8310cc64acf365723a612bf.ctex"
+uid="uid://doab0cgvt1spg"
+path="res://.godot/imported/index.png-cd2d0955ebde61c3e9de7041b8393ffb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Build/SuperSchoolLibrary.png"
-dest_files=["res://.godot/imported/SuperSchoolLibrary.png-87b1486eb8310cc64acf365723a612bf.ctex"]
+source_file="res://Build/index.png"
+dest_files=["res://.godot/imported/index.png-cd2d0955ebde61c3e9de7041b8393ffb.ctex"]
 
 [params]
 
